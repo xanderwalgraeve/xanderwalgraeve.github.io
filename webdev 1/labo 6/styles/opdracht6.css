@@ -1,0 +1,20 @@
+.checked {
+    display: block;
+    position: relative;
+    box-sizing: border-box;
+    padding-left: 25px;
+    background: url(../images/checked.png) no-repeat;
+    height: 30px;
+    width: 30px;
+    background-size: 50%;
+}
+li {
+    background: url(../images/notchecked.jpg) no-repeat;
+    position: relative;
+    box-sizing: border-box;
+    padding-left: 25px;
+    height: 30px;
+    width: 30px;
+    display: block;
+    background-size: 40%;
+}
