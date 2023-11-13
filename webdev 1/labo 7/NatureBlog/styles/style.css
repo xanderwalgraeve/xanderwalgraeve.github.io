@@ -1,0 +1,41 @@
+body{
+    font-family: Verdana, sans-serif;
+    font-size: 10px;
+    width: 1200px;
+    margin:auto;
+}
+.header {
+    height: 120px;
+    background-image: url("../images/header.jpg");
+
+
+    background-repeat: no-repeat;
+    margin: 0px
+}
+.header h1 {
+    font-weight: bold;
+    font-size: 35px;
+    color: #FFFFFF;
+    margin: 5px;
+}
+nav {
+    background: #444444;
+    padding: 3px;
+}
+nav a {
+    font-weight: bold;
+    font-size: 12px;
+    color: lawngreen;
+    text-decoration: none;
+}
+article{
+    background: lightgrey;
+    margin: 5px;
+    padding: 3px;
+}
+article header {
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: underline;
+    color: #444444;
+}
